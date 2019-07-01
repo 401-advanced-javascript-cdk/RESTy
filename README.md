@@ -6,7 +6,7 @@ Implementation of the RESTy application in React.
 
 ### Links and Resources
 
-- [GitHub PR]( --- )
+- [GitHub PR](https://github.com/401-advanced-javascript-cdk/RESTy/pull/1)
 - [Netlify Deployment](https://ecstatic-shannon-58a208.netlify.com)
 - [Travis](https://travis-ci.com/401-advanced-javascript-cdk/RESTy)
 
