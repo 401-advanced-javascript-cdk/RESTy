@@ -6,9 +6,9 @@ Implementation of the RESTy application in React.
 
 ### Links and Resources
 
-<!-- - []( --- )
-- []( --- )
-- []( --- ) -->
+- [GitHub PR]( --- )
+- [Netlify Deployment](https://ecstatic-shannon-58a208.netlify.com)
+- [Travis](https://travis-ci.com/401-advanced-javascript-cdk/RESTy)
 
 ### Modules
 
@@ -34,4 +34,4 @@ Renders a div that contains the headers and response from props.
 
 #### Operation
 
-Go to the client deployment [here]( --- ).  The user can input the url, method, and a JDON body, and the response from the server will be displayed after submitting.
+Go to the client deployment [here](https://ecstatic-shannon-58a208.netlify.com).  The user can input the url, method, and a JDON body, and the response from the server will be displayed after submitting.
